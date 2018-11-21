@@ -1,7 +1,7 @@
-Title         : My Academic Paper
-Author        : You
+Title         : 基于浮动车轨迹的分布式路况挖掘和优化
+Author        : 邱皓月
 Affiliation   : Research institute
-Email         : you@bar.com
+Email         : 1002998321@qq.com
 
 Author        : My co-author
 Affiliation   : Other institute
@@ -22,7 +22,10 @@ Some courage and some wisdom, blended in measure. If more of us valued
 food and cheer and song above hoarded gold, it would be a merrier world.
 ~
 
-# Introduction     { #sec-intro }
+# 绪论     { #sec-intro }
+
+
+
 
 Figure [#fig-butterfly] in Section [#sec-intro] shows a monarch butterfly.
 Note that you can drag&drop images into the editor pane to include them in
@@ -42,7 +45,7 @@ Our contributions are:
 * And references to Tex books [@Knuth:TeX;@Lamport:LaTeX;@Goo93;@Fberg04] and others [@Grandstrand]. 
   Textual citations, like @Knuth:TeX are also possible.
 
-# Content
+# 相关工作
 
 A definition of $e$ is shown in Equation [#euler] proved by Theorem [#th-euler]:
 
